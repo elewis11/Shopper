@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Shopper</string>
+    <string name="action_home">Home</string>
+    <string name="action_create_list">Create Shopping List</string>
+    <string name="title_activity_create_list">Create Shopping List</string>
+    <string name="name">Name</string>
+    <string name="store">Store</string>
+    <string name="date">Date</string>
+    <string name="action_shopping_list">Create Shopping List</string>
+    <string name="title_activity_view_list">View List</string>
+    <string name="delete_shopping_list">Delete Shopping List</string>
+    <string name="title_activity_add_item">Add Item</string>
+    <string name="action_add_item">Add Item</string>
+</resources>
